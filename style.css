@@ -17,3 +17,7 @@ h2 {
 h3 {
   color: #ffffff;
 }
+.rounded-img {
+  border-radius: 15px;
+  height: auto;
+}
