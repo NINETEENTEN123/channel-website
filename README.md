@@ -13,4 +13,4 @@ SO HOP OFF AND TOUCH SOME GRASSSSSSSSS
 
 AND DONT U DARE TRY TO TOUCH GRASS ON UR COMPUTERRRRRRRRRRRRRRRRRRRRRR
 
-[Check out my channel here](https://www.youtube.com/@nineteenten123)
+<a href="https://www.youtube.com/@nineteenten123" target="_blank">Check out my channel here</a>
